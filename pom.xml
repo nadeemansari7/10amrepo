@@ -40,7 +40,7 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>libs-snapshot-local</name>
-        <url>http://54.90.118.110:8082/artifactory/libs-release-local//</url>
+        <url>http://54.90.118.110:8082/artifactory/libs-snapshot-local//</url>
     </snapshotRepository>
     
     <repository>
